@@ -14,9 +14,9 @@ a list of my favorite tools for developments and etc
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode/)
 
 ## Online Editor
-- [CodePen](https://codepen.io//)
-- [PlayCode](https://playcode.io//)
-- [JSFiddle](https://jsfiddle.net//)
+- [CodePen](https://codepen.io/)
+- [PlayCode](https://playcode.io/)
+- [JSFiddle](https://jsfiddle.net/)
 
 ## Chrome Extension
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/)
@@ -28,6 +28,4 @@ a list of my favorite tools for developments and etc
 - [Reader View](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh/)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/)
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/)
-
-
 
