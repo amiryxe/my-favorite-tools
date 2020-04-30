@@ -29,3 +29,8 @@ a list of my favorite tools for developments and etc
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/)
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/)
 
+## Fonts
+- [Vazir](https://rastikerdar.github.io/vazir-font/)
+- [Sahel](https://rastikerdar.github.io/sahel-font/)
+- [Lalezar](https://fonts.google.com/specimen/Lalezar/)
+- [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira/)
