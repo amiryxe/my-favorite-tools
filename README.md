@@ -34,3 +34,9 @@ a list of my favorite tools for developments and etc
 - [Sahel](https://rastikerdar.github.io/sahel-font/)
 - [Lalezar](https://fonts.google.com/specimen/Lalezar/)
 - [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira/)
+
+## UI Frameworks
+- [Bootstrap](https://getbootstrap.com/)
+- [Bulma](https://bulma.io/)
+- [Materialize](https://materializecss.com/)
+- [Semantic UI](https://semantic-ui.com/)
