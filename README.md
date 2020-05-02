@@ -43,3 +43,8 @@ a list of my favorite tools for developments and etc
 
 ## Books
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
+
+## Media Players
+- [AIMP](https://www.aimp.ru/?do=download/)
+- [GOM Player](https://www.gomlab.com/download/)
+
