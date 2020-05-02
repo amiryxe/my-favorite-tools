@@ -48,3 +48,6 @@ a list of my favorite tools for developments and etc
 - [AIMP](https://www.aimp.ru/?do=download/)
 - [GOM Player](https://www.gomlab.com/download/)
 
+## Markdown Editor
+- [Typora](https://typora.io/)
+- [StackEdit](https://stackedit.io/app/)
