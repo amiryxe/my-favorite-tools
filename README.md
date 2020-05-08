@@ -66,3 +66,5 @@ a list of my favorite tools for developments and etc
 - [Vector.me](https://vector.me/)
 - [Icon8](https://icons8.com/)
 - [unDraw](https://undraw.co/search/)
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+
