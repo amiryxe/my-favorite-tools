@@ -60,3 +60,9 @@ a list of my favorite tools for developments and etc
 - [Moment.js](https://momentjs.com/)
 - [MD Bootstrap Persian Date Time Picker](https://github.com/Mds92/MD.BootstrapPersianDateTimePicker/)
 
+## Graphic assets
+- [Flaticon](https://www.flaticon.com/)
+- [Freepik](https://www.freepik.com/)
+- [Vector.me](https://vector.me/)
+- [Icon8](https://icons8.com/)
+- [unDraw](https://undraw.co/search/)
