@@ -68,3 +68,6 @@ a list of my favorite tools for developments and etc
 - [unDraw](https://undraw.co/search/)
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
 
+## Command Line
+- [Cmder](https://cmder.net/)
+- [Git Bash](https://git-scm.com/downloads/)
