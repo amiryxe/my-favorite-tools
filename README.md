@@ -71,3 +71,9 @@ a list of my favorite tools for developments and etc
 ## Command Line
 - [Cmder](https://cmder.net/)
 - [Git Bash](https://git-scm.com/downloads/)
+
+## References
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+- [React](https://reactjs.org/docs/getting-started.html/)
+- [Bootstrap](https://getbootstrap.com/docs/)
+
