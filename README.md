@@ -77,3 +77,8 @@ a list of my favorite tools for developments and etc
 - [React](https://reactjs.org/docs/getting-started.html/)
 - [Bootstrap](https://getbootstrap.com/docs/)
 
+## JSON
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+- [Persian JSONPlaceholder](https://jsonplaceholder.ir/)
+- [REQ | RES](https://reqres.in/)
+
