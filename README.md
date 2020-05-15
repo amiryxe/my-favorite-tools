@@ -82,3 +82,7 @@ a list of my favorite tools for developments and etc
 - [Persian JSONPlaceholder](https://jsonplaceholder.ir/)
 - [REQ | RES](https://reqres.in/)
 
+## Icon Font
+- [Font Awesome](https://fontawesome.com/)
+- [Boxicons](https://boxicons.com/)
+- [IcoMoon](https://icomoon.io/)
