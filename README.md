@@ -1,6 +1,11 @@
 # My Favorite Tools (AmirSaa)
 a list of my favorite tools for developments and etc
 
+## Titles:
+- [IDE and Code Editor](#ide-and-code-editor)
+- [VSC Extension](#vsc-extension)
+
+
 ## IDE and Code Editor
 - [VSC](https://code.visualstudio.com/)
 - Phpstorm
