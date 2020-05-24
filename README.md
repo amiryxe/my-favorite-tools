@@ -4,7 +4,15 @@ a list of my favorite tools for developments and etc
 ## Titles:
 - [IDE and Code Editor](#ide-and-code-editor)
 - [VSC Extension](#vsc-extension)
-
+- [Online Editor](#online-editor)
+- [Chrome Extension](#chrome-extension)
+- [Fonts](#fonts)
+- [UI Frameworks](#ui-frameworks)
+- [Books](#books)
+- [Media Players](#media-players)
+- [Markdown Editor](#markdown-editor)
+- [API Tool](#api-tool)
+---
 
 ## IDE and Code Editor
 - [VSC](https://code.visualstudio.com/)
