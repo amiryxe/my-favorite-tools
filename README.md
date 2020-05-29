@@ -12,6 +12,12 @@ a list of my favorite tools for developments and etc
 - [Media Players](#media-players)
 - [Markdown Editor](#markdown-editor)
 - [API Tool](#api-tool)
+- [Date, Time and Calendar](#date-time-and-calendar)
+- [Graphic assets](#graphic-assets)
+- [Command Line](#command-line)
+- [References](#references)
+- [Json](#json)
+- [Icon Font](#icon-font)
 ---
 
 ### IDE and Code Editor
