@@ -95,6 +95,9 @@ a list of my favorite tools for developments and etc
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 - [React](https://reactjs.org/docs/getting-started.html/)
 - [Bootstrap](https://getbootstrap.com/docs/)
+- [Dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+
 
 ### JSON
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
