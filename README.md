@@ -110,3 +110,8 @@ a list of my favorite tools for developments and etc
 - [Font Awesome](https://fontawesome.com/)
 - [Boxicons](https://boxicons.com/)
 - [IcoMoon](https://icomoon.io/)
+
+### Deploy
+- [GitHub Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/)
+- [surge](https://surge.sh/)
