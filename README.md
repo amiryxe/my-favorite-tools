@@ -92,12 +92,14 @@ a list of my favorite tools for developments and etc
 - [Git Bash](https://git-scm.com/downloads/)
 
 ### References
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-- [React](https://reactjs.org/docs/getting-started.html/)
-- [Bootstrap](https://getbootstrap.com/docs/)
 - [Dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
 
+### Documentation
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+- [React](https://reactjs.org/docs/getting-started.html/)
+- [Vue.js](https://vuejs.org/guide/)
+- [Bootstrap](https://getbootstrap.com/docs/)
 
 ### JSON
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
