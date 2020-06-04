@@ -21,6 +21,9 @@ a list of my favorite tools for developments and etc
 - [Icon Font](#icon-font)
 ---
 
+### Browser
+- [Chrome](https://www.google.com/chrome/)
+
 ### IDE and Code Editor
 - [VSC](https://code.visualstudio.com/)
 - Phpstorm
