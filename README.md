@@ -1,4 +1,4 @@
-# My Favorite Tools (AmirSaa)
+# My Favorite Tools (amiryxe)
 a list of my favorite tools for developments and etc
 
 ## Titles:
