@@ -58,6 +58,7 @@ a list of my favorite tools for developments and etc
 - [Vazir](https://rastikerdar.github.io/vazir-font/)
 - [Sahel](https://rastikerdar.github.io/sahel-font/)
 - [Lalezar](https://fonts.google.com/specimen/Lalezar/)
+- [Estedad](https://github.com/aminabedi68/Estedad/)
 - [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira/)
 
 ### UI Frameworks
