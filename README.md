@@ -53,6 +53,7 @@ a list of my favorite tools for developments and etc
 - [Reader View](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh/)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/)
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/)
+- [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg/)
 
 ### Fonts
 - [Vazir](https://rastikerdar.github.io/vazir-font/)
@@ -63,6 +64,7 @@ a list of my favorite tools for developments and etc
 
 ### UI Frameworks
 - [Bootstrap](https://getbootstrap.com/)
+- [UIKit](https://getuikit.com/)
 - [Bulma](https://bulma.io/)
 - [Materialize](https://materializecss.com/)
 - [Semantic UI](https://semantic-ui.com/)
@@ -85,7 +87,7 @@ a list of my favorite tools for developments and etc
 
 ### Date, Time and Calendar
 - [Moment.js](https://momentjs.com/)
-- [MD Bootstrap Persian Date Time Picker](https://github.com/Mds92/MD.BootstrapPersianDateTimePicker/)
+- [Persian Datepicker](http://babakhani.github.io/PersianWebToolkit/doc/datepicker/index.html/)
 
 ### Graphic assets
 - [Flaticon](https://www.flaticon.com/)
@@ -96,8 +98,8 @@ a list of my favorite tools for developments and etc
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
 
 ### Command Line
-- [Cmder](https://cmder.net/)
 - [Git Bash](https://git-scm.com/downloads/)
+- [Cmder](https://cmder.net/)
 
 ### References
 - [Dribbble](https://dribbble.com/)
@@ -136,3 +138,4 @@ a list of my favorite tools for developments and etc
 
 ### Windows Softwares
 - [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
+- [Search Everything](https://www.voidtools.com/)
