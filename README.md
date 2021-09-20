@@ -36,6 +36,7 @@ a list of my favorite tools for developments and etc
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets/)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer/)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode/)
+- [Github Copilot](https://copilot.github.com/)
 
 ### Online Editor
 - [CodePen](https://codepen.io/)
@@ -129,8 +130,10 @@ a list of my favorite tools for developments and etc
 ### Draw
 - [Draw.io](http://draw.io/)
 
-### Music
+### Music and Podcast app
 - [MrTehran](https://mrtehran.com/)
+- [Spotify](https://www.spotify.com/)
+- [Castbox](https://castbox.fm/)
 
 ### Git Hosting
 - [Github](https://github.com/)
