@@ -155,3 +155,6 @@ a list of my favorite tools for developments and etc
 
 ### Learning
 - [Drops](https://play.google.com/store/apps/details?id=com.languagedrops.drops.international)
+
+### Notes
+- [Google keep](https://keep.google.com/)
