@@ -158,3 +158,7 @@ a list of my favorite tools for developments and etc
 
 ### Notes
 - [Google keep](https://keep.google.com/)
+
+### Chat and connect
+- [Telegram](https://telegram.org/)
+- [Discord](https://discord.com/)
