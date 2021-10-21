@@ -20,7 +20,7 @@ The list of my favorite tools for developments and etc.
 - [Json](#json)
 - [Icon Font](#icon-font)
 - [Windows Softwares](#windows-softwares)
-- [UI/UX](#ui/ux)
+- [UI/UX](#uiux)
 - [Tasks](#tasks)
 - [Learning](#learning)
 - [Notes](#notes)
