@@ -1,5 +1,5 @@
 # My Favorite Tools (amiryxe)
-a list of my favorite tools for developments and etc
+The list of my favorite tools for developments and etc.
 
 ## Titles:
 - [IDE and Code Editor](#ide-and-code-editor)
@@ -20,6 +20,11 @@ a list of my favorite tools for developments and etc
 - [Json](#json)
 - [Icon Font](#icon-font)
 - [Windows Softwares](#windows-softwares)
+- [UI/UX](#ui/ux)
+- [Tasks](#tasks)
+- [Learning](#learning)
+- [Notes](#notes)
+- [Chat and connect](#chat-and-connect)
 ---
 
 ### Browser
