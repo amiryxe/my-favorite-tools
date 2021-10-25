@@ -51,7 +51,6 @@ The list of my favorite tools for developments and etc.
 
 ### Chrome Extension
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/)
-- [Select to Translate - Translator](https://chrome.google.com/webstore/detail/select-to-translate-trans/eignaoffibhilfdkmddbpigikiglehcc/)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg/)
 - [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip/)
 - [Custom JavaScript for Websites](https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/)
