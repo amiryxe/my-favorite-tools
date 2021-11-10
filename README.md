@@ -167,3 +167,6 @@ The list of my favorite tools for developments and etc.
 ### Chat and connect
 - [Telegram](https://telegram.org/)
 - [Discord](https://discord.com/)
+
+### Text Editor
+- [Notepad++](https://notepad-plus-plus.org/)
