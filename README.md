@@ -170,3 +170,6 @@ The list of my favorite tools for developments and etc.
 
 ### Text Editor
 - [Notepad++](https://notepad-plus-plus.org/)
+
+### Operating System
+- [Ubuntu](https://ubuntu.com/)
