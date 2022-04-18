@@ -173,3 +173,4 @@ The list of my favorite tools for developments and etc.
 
 ### Operating System
 - [Ubuntu](https://ubuntu.com/)
+- [Windows 10](https://www.microsoft.com/en-us/windows/)
