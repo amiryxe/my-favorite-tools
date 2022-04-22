@@ -179,3 +179,6 @@ The list of my favorite tools for developments and etc.
 - [react-icons](https://react-icons.github.io/react-icons/)
 - [swr](https://swr.vercel.app/)
 - [React Router](https://reactrouter.com/)
+
+### npm
+- [sass](https://www.npmjs.com/package/sass)
