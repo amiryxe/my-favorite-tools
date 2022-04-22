@@ -175,7 +175,7 @@ The list of my favorite tools for developments and etc.
 - [Ubuntu](https://ubuntu.com/)
 - [Windows 10](https://www.microsoft.com/en-us/windows/)
 
-### Reac
+### React
 - [react-icons](https://react-icons.github.io/react-icons/)
 - [swr](https://swr.vercel.app/)
 - [React Router](https://reactrouter.com/)
