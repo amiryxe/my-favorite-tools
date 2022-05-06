@@ -184,3 +184,6 @@ The list of my favorite tools for developments and etc.
 ### npm
 - [sass](https://www.npmjs.com/package/sass)
 - [VazirMatn](https://www.npmjs.com/package/vazirmatn)
+
+### State manager
+- [Redux](https://redux.js.org/)
