@@ -187,3 +187,4 @@ The list of my favorite tools for developments and etc.
 
 ### State manager
 - [Redux](https://redux.js.org/)
+- [Easy Peasy](https://easy-peasy.vercel.app/)
