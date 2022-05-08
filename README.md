@@ -93,6 +93,7 @@ The list of my favorite tools for developments and etc.
 
 ### Date, Time and Calendar
 - [Moment.js](https://momentjs.com/)
+- [Jalali Moment](https://www.npmjs.com/package/jalali-moment)
 - [Persian Datepicker](http://babakhani.github.io/PersianWebToolkit/doc/datepicker/index.html/)
 
 ### Graphic assets
