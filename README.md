@@ -186,6 +186,7 @@ The list of my favorite tools for developments and etc.
 - [sass](https://www.npmjs.com/package/sass)
 - [VazirMatn](https://www.npmjs.com/package/vazirmatn)
 - [axios](https://axios-http.com/)
+- [dotenv-cli](https://www.npmjs.com/package/dotenv-cli)
 
 ### State manager
 - [Redux](https://redux.js.org/)
