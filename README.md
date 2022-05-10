@@ -127,6 +127,7 @@ The list of my favorite tools for developments and etc.
 - [Font Awesome](https://fontawesome.com/)
 - [Boxicons](https://boxicons.com/)
 - [IcoMoon](https://icomoon.io/)
+- [Fontastic](https://fontastic.me/)
 
 ### Deploy
 - [GitHub Pages](https://pages.github.com/)
