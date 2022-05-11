@@ -28,6 +28,8 @@ The list of my favorite tools for developments and etc.
 - [Text Editor](#text-editor)
 - [Operating System](operating-system)
 - [React](react)
+- [NPM](npm)
+- [State Manager](state-manager)
 ---
 
 ### Browser
