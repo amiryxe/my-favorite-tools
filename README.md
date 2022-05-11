@@ -25,6 +25,7 @@ The list of my favorite tools for developments and etc.
 - [Learning](#learning)
 - [Notes](#notes)
 - [Chat and connect](#chat-and-connect)
+- [Text Editor](#text-editor)
 ---
 
 ### Browser
