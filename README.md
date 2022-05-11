@@ -26,6 +26,8 @@ The list of my favorite tools for developments and etc.
 - [Notes](#notes)
 - [Chat and connect](#chat-and-connect)
 - [Text Editor](#text-editor)
+- [Operating System](operating-system)
+- [React](react)
 ---
 
 ### Browser
