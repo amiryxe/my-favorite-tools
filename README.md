@@ -47,6 +47,7 @@ The list of my favorite tools for developments and etc.
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer/)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode/)
 - [Github Copilot](https://copilot.github.com/)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 ### Online Editor
 - [CodePen](https://codepen.io/)
