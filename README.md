@@ -36,7 +36,7 @@ The list of my favorite tools for developments and etc.
 - [Chrome](https://www.google.com/chrome/)
 
 ### IDE and Code Editor
-- [VSC](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Phpstorm](https://www.jetbrains.com/phpstorm/)
 
 ### VSC Extension
