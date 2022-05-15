@@ -88,7 +88,6 @@ The list of my favorite tools for developments and etc.
 - [GOM Player](https://www.gomlab.com/download/)
 - [VLC media player](https://www.videolan.org/vlc/index.html/)
 
-
 ### Markdown Editor
 - [Typora](https://typora.io/)
 - [StackEdit](https://stackedit.io/app/)
@@ -200,3 +199,6 @@ The list of my favorite tools for developments and etc.
 ### State manager
 - [Redux](https://redux.js.org/)
 - [Easy Peasy](https://easy-peasy.vercel.app/)
+
+### Photo edit
+- [YOGA Image Optimizer](https://yoga.flozz.org/)
