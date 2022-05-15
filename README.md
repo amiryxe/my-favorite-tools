@@ -202,3 +202,6 @@ The list of my favorite tools for developments and etc.
 
 ### Photo edit
 - [YOGA Image Optimizer](https://yoga.flozz.org/)
+
+### Graphic software
+- [Photoshop](https://www.adobe.com/products/photoshop.html)
