@@ -37,6 +37,7 @@ The list of my favorite tools for developments and etc.
 
 ### Browser
 - [Chrome](https://www.google.com/chrome/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ### IDE and Code Editor
 - [Visual Studio Code](https://code.visualstudio.com/)
