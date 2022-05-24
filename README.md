@@ -158,7 +158,6 @@ The list of my favorite tools for developments and etc.
 ### Windows Softwares
 - [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
 - [Search Everything](https://www.voidtools.com/)
-- [Cyberduck](https://cyberduck.io/)
 
 ### UI/UX
 - [Adobe XD](https://www.adobe.com/products/xd.html/)
@@ -213,3 +212,6 @@ The list of my favorite tools for developments and etc.
 
 ### Container
 - [Docker](https://www.docker.com/)
+
+### FTP
+- [Cyberduck](https://cyberduck.io/)
