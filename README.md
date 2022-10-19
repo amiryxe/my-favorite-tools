@@ -216,3 +216,6 @@ The list of my favorite tools for developments and etc.
 
 ### FTP
 - [Cyberduck](https://cyberduck.io/)
+
+### Download Manager
+- [XDM](https://xtremedownloadmanager.com/)
