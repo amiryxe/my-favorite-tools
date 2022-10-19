@@ -33,6 +33,7 @@ The list of my favorite tools for developments and etc.
 - [Photo Edit](#photo-edit)
 - [Graphic Software](#graphic-software)
 - [Container](#container)
+- [Download Manager](#download-manager)
 ---
 
 ### Browser
