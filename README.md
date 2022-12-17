@@ -34,6 +34,7 @@ The list of my favorite tools for developments and etc.
 - [Graphic Software](#graphic-software)
 - [Container](#container)
 - [Download Manager](#download-manager)
+- [Clipboard manager](#clipboard-manager)
 ---
 
 ### Browser
