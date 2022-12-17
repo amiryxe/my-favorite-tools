@@ -219,3 +219,7 @@ The list of my favorite tools for developments and etc.
 
 ### Download Manager
 - [XDM](https://xtremedownloadmanager.com/)
+
+### Clipboard manager
+- [Diodon](https://github.com/diodon-dev/diodon)
+- [CopyQ](https://github.com/hluk/CopyQ)
