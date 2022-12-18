@@ -2,7 +2,7 @@
 The list of my favorite tools for developments and etc.
 
 ## Titles:
-- [IDE and Code Editor](#ide-and-code-editor)
+- [Code Editor](#code-editor)
 - [VSC Extension](#vsc-extension)
 - [Online Editor](#online-editor)
 - [Chrome Extension](#chrome-extension)
@@ -41,9 +41,9 @@ The list of my favorite tools for developments and etc.
 - [Chrome](https://www.google.com/chrome/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-### IDE and Code Editor
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Phpstorm](https://www.jetbrains.com/phpstorm/)
+### Code Editor
+- [VSCode](https://code.visualstudio.com/)
+- [Sublime Text](https://www.sublimetext.com/)
 
 ### VSC Extension
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme/)
