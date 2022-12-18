@@ -93,6 +93,7 @@ The list of my favorite tools for developments and etc.
 - [AIMP](https://www.aimp.ru/?do=download/)
 - [GOM Player](https://www.gomlab.com/download/)
 - [VLC media player](https://www.videolan.org/vlc/index.html/)
+- [mpv](https://mpv.io/)
 
 ### Markdown Editor
 - [Typora](https://typora.io/)
