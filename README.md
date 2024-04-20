@@ -163,7 +163,6 @@ The list of my favorite tools for developments and etc.
 - [Search Everything](https://www.voidtools.com/)
 
 ### UI/UX
-- [Adobe XD](https://www.adobe.com/products/xd.html/)
 - [Figma](https://www.figma.com/)
 
 ### Tasks
