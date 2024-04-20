@@ -96,7 +96,6 @@ The list of my favorite tools for developments and etc.
 - [mpv](https://mpv.io/)
 
 ### Markdown Editor
-- [Typora](https://typora.io/)
 - [StackEdit](https://stackedit.io/app/)
 
 ### API Tool
