@@ -33,8 +33,6 @@ The list of my favorite tools for developments and etc.
 - [Photo Edit](#photo-edit)
 - [Graphic Software](#graphic-software)
 - [Container](#container)
-- [Download Manager](#download-manager)
-- [Clipboard manager](#clipboard-manager)
 ---
 
 ### Browser
@@ -46,13 +44,11 @@ The list of my favorite tools for developments and etc.
 - [Sublime Text](https://www.sublimetext.com/)
 
 ### VSC Extension
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme/)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag/)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer/)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets/)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer/)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode/)
-- [Github Copilot](https://copilot.github.com/)
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 ### Online Editor
@@ -214,12 +210,5 @@ The list of my favorite tools for developments and etc.
 ### Container
 - [Docker](https://www.docker.com/)
 
-### FTP
-- [Cyberduck](https://cyberduck.io/)
-
-### Download Manager
-- [XDM](https://xtremedownloadmanager.com/)
-
 ### Clipboard manager
 - [Diodon](https://github.com/diodon-dev/diodon)
-- [CopyQ](https://github.com/hluk/CopyQ)
