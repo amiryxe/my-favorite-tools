@@ -79,7 +79,6 @@ The list of my favorite tools for developments and etc.
 - [Bootstrap](https://getbootstrap.com/)
 - [UIKit](https://getuikit.com/)
 - [Bulma](https://bulma.io/)
-- [Materialize](https://materializecss.com/)
 - [Semantic UI](https://semantic-ui.com/)
 
 ### Books
