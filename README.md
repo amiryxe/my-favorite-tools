@@ -142,7 +142,6 @@ The list of my favorite tools for developments and etc.
 - [Draw.io](http://draw.io/)
 
 ### Music and Podcast app
-- [MrTehran](https://mrtehran.com/)
 - [Spotify](https://www.spotify.com/)
 - [Castbox](https://castbox.fm/)
 
