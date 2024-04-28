@@ -54,7 +54,6 @@ The list of my favorite tools for developments and etc.
 ### Online Editor
 - [CodePen](https://codepen.io/)
 - [CodeSandbox](https://codesandbox.io/s/)
-- [PlayCode](https://playcode.io/)
 - [JSFiddle](https://jsfiddle.net/)
 
 ### Chrome Extension
