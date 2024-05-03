@@ -43,11 +43,11 @@ The list of my favorite tools for developments and etc.
 - [Sublime Text](https://www.sublimetext.com/)
 
 ### VSC Extension
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer/)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag/)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer/)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer/)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode/)
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets/)
 
 ### Online Editor
