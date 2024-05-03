@@ -122,7 +122,6 @@ The list of my favorite tools for developments and etc.
 
 ### JSON
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
-- [Persian JSONPlaceholder](https://jsonplaceholder.ir/)
 - [REQ | RES](https://reqres.in/)
 
 ### Icon Font
