@@ -28,7 +28,6 @@ The list of my favorite tools for developments and etc.
 - [Text Editor](#text-editor)
 - [Operating System](#operating-system)
 - [React](#react)
-- [NPM](#npm)
 - [State Manager](#state-manager)
 - [Photo Edit](#photo-edit)
 - [Graphic Software](#graphic-software)
@@ -185,12 +184,6 @@ The list of my favorite tools for developments and etc.
 - [ant design](https://ant.design)
 - [React Leaflet](https://react-leaflet.js.org/)
 - [Heroicons](https://heroicons.com/)
-
-### npm
-- [sass](https://www.npmjs.com/package/sass)
-- [VazirMatn](https://www.npmjs.com/package/vazirmatn)
-- [axios](https://axios-http.com/)
-- [dotenv-cli](https://www.npmjs.com/package/dotenv-cli)
 
 ### State manager
 - [Redux](https://redux.js.org/)
