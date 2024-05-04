@@ -52,8 +52,8 @@ The list of my favorite tools for developments and etc.
 
 ### Online Editor
 - [CodePen](https://codepen.io/)
-- [CodeSandbox](https://codesandbox.io/s/)
 - [JSFiddle](https://jsfiddle.net/)
+- [CodeSandbox](https://codesandbox.io/s/)
 
 ### Chrome Extension
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/)
