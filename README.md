@@ -82,9 +82,9 @@ The list of my favorite tools for developments and etc.
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ### Media Players
+- [mpv](https://mpv.io/)
 - [AIMP](https://www.aimp.ru/?do=download/)
 - [GOM Player](https://www.gomlab.com/download/)
-- [mpv](https://mpv.io/)
 
 ### Markdown Editor
 - [StackEdit](https://stackedit.io/app/)
