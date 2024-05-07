@@ -98,11 +98,11 @@ The list of my favorite tools for developments and etc.
 - [Jalali Moment](https://www.npmjs.com/package/jalali-moment)
 
 ### Graphic assets
-- [Flaticon](https://www.flaticon.com/)
-- [Freepik](https://www.freepik.com/)
-- [Vector.me](https://vector.me/)
 - [Icon8](https://icons8.com/)
 - [unDraw](https://undraw.co/search/)
+- [Freepik](https://www.freepik.com/)
+- [Flaticon](https://www.flaticon.com/)
+- [Vector.me](https://vector.me/)
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
 
 ### Command Line
