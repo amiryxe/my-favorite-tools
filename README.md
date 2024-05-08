@@ -120,13 +120,13 @@ The list of my favorite tools for developments and etc.
 - [Bootstrap](https://getbootstrap.com/docs/)
 
 ### JSON
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 - [REQ | RES](https://reqres.in/)
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ### Icon Font
-- [Font Awesome](https://fontawesome.com/)
-- [Boxicons](https://boxicons.com/)
 - [IcoMoon](https://icomoon.io/)
+- [Heroicons](https://heroicons.com/)
+- [Boxicons](https://boxicons.com/)
 - [Fontastic](https://fontastic.me/)
 
 ### Deploy
