@@ -90,8 +90,8 @@ The list of my favorite tools for developments and etc.
 - [StackEdit](https://stackedit.io/app/)
 
 ### API Tool
-- [Postman](https://www.postman.com/downloads/)
 - [Mokoon](https://mockoon.com/)
+- [Postman](https://www.postman.com/downloads/)
 
 ### Date, Time and Calendar
 - [Moment.js](https://momentjs.com/)
@@ -106,8 +106,8 @@ The list of my favorite tools for developments and etc.
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
 
 ### Command Line
-- [Git Bash](https://git-scm.com/downloads/)
 - [Cmder](https://cmder.net/)
+- [Git Bash](https://git-scm.com/downloads/)
 
 ### References
 - [Dribbble](https://dribbble.com/)
