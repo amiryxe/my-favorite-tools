@@ -156,7 +156,7 @@ The list of my favorite tools for developments and etc.
 - [Focus To-Do](https://play.google.com/store/apps/details?id=com.superelement.pomodoro&hl=en&gl=US)
 
 ### Learning
-- [Leecode](https://leetcode.com/)
+- [Leetcode](https://leetcode.com/)
 
 ### Notes
 - [Google keep](https://keep.google.com/)
