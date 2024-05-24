@@ -166,6 +166,7 @@ The list of my favorite tools for developments and etc.
 - [Discord](https://discord.com/)
 
 ### Text Editor
+- [Joplin](https://joplinapp.org/)
 - [Notepad++](https://notepad-plus-plus.org/)
 
 ### Operating System
