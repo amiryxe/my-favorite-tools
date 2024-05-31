@@ -129,9 +129,9 @@ The list of my favorite tools for developments and etc.
 - [Heroicons](https://heroicons.com/)
 
 ### Deploy
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
 - [surge](https://surge.sh/)
+- [Netlify](https://www.netlify.com/)
+- [GitHub Pages](https://pages.github.com/)
 
 ### Draw
 - [Draw.io](http://draw.io/)
