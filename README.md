@@ -19,7 +19,6 @@ The list of my favorite tools for developments and etc.
 - [Documentation](#documentation)
 - [Json](#json)
 - [Icon Font](#icon-font)
-- [Windows Softwares](#windows-softwares)
 - [UI/UX](#uiux)
 - [Tasks](#tasks)
 - [Learning](#learning)
@@ -143,10 +142,6 @@ The list of my favorite tools for developments and etc.
 ### Git Hosting
 - [Github](https://github.com/)
 - [Gitlab](https://gitlab.com/)
-
-### Windows Softwares
-- [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
-- [Search Everything](https://www.voidtools.com/)
 
 ### UI/UX
 - [Figma](https://www.figma.com/)
