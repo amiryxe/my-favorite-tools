@@ -169,13 +169,13 @@ The list of my favorite tools for developments and etc.
 - [Windows 10](https://www.microsoft.com/en-us/windows/)
 
 ### React
-- [react-icons](https://react-icons.github.io/react-icons/)
 - [swr](https://swr.vercel.app/)
+- [ant design](https://ant.design)
+- [Heroicons](https://heroicons.com/)
+- [react-icons](https://react-icons.github.io/react-icons/)
 - [React Router](https://reactrouter.com/)
 - [react redux](https://react-redux.js.org/)
-- [ant design](https://ant.design)
 - [React Leaflet](https://react-leaflet.js.org/)
-- [Heroicons](https://heroicons.com/)
 
 ### State manager
 - [Redux](https://redux.js.org/)
